@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825438714728",
+    "project_id": "influxmovies"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825438714728:android:58b73e3f87c05bfb",
+        "android_client_info": {
+          "package_name": "com.influx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825438714728-g9vg9rop5te619mv0ugvst74d74bgisi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "825438714728-e8go0qg4nevt310onphugvbir3v3l8nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.influx",
+            "certificate_hash": "73c0fc78e31367ef400c0d2805baa39b25e4e618"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59tGrKE3VRIL99A5wD5FmCCshd_gReIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_nowplaying"
+            android:icon="@drawable/nowplaying"
+            android:title="Now Playing" />
+        <item
+            android:id="@+id/nav_toprated"
+            android:icon="@drawable/toprated"
+            android:title="Top Rated" />
+        <item
+            android:id="@+id/nav_upcoming"
+            android:icon="@drawable/upcoming"
+            android:title="Up Coming" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+
+
+
+
+</menu>
